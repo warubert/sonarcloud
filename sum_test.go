@@ -9,5 +9,4 @@ func TestSum(t *testing.T) {
 	if result != 5 {
 		t.Error("Era pra ser 5, mas veio", result)
 	}
-
 }
